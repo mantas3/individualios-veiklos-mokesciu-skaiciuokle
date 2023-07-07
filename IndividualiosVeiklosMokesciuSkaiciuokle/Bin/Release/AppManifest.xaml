@@ -1,0 +1,6 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="IndividualiosVeiklosMokesciuSkaiciuokle" EntryPointType="IndividualiosVeiklosMokesciuSkaiciuokle.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="IndividualiosVeiklosMokesciuSkaiciuokle" Source="IndividualiosVeiklosMokesciuSkaiciuokle.dll" />
+    <AssemblyPart x:Name="BugSense-WP8" Source="BugSense-WP8.dll" />
+  </Deployment.Parts>
+</Deployment>
